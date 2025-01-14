@@ -4,7 +4,7 @@
 
 ## 🧑‍💼 About Me
 
-I am a passionate Dynamic **full-stack web developer** with expertise in the **MERN stack**. I am known for leveraging JavaScript, React.js, and Node.js to build scalable applications. I excel at problem-solving and possess strong collaboration skills. I am proficient in integrating generative AI and swiftly mastering emerging technologies. When I'm not coding, I love to learn new technologies and work on personal projects.
+A dynamic full-stack web developer with a strong expertise in the MERN stack, specializing in building scalable applications using JavaScript, React.js, and Node.js. Known for a deep passion for problem-solving and a collaborative approach, this developer thrives in high-pressure environments and complex technical challenges. Proficient in integrating generative AI technologies and quickly adapting to emerging tools, frameworks, and best practices. Outside of professional commitments, there is a strong focus on continuous learning and personal projects, constantly exploring new technologies to stay at the forefront of the industry.
 
 ---
 
